@@ -1,0 +1,91 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+
+    background: url(ttt.jpg)
+}
+
+div {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    height: 420px;
+    background: rgba(0, 0, 0, .5);
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+input {
+    position: absolute;
+    outline: none;
+    border: none;
+    width: 250px;
+    height: 35px;
+    border-bottom: 2px solid#0094ff;
+
+    padding: 2%;
+    color: black;
+}
+
+input[type="password"] {
+    top: 240px;
+    left: 50px;
+}
+
+input[type="text"] {
+    top: 190px;
+    left: 50px;
+}
+
+#submit {
+    top: 290px;
+    left: 50px;
+}
+
+h1 {margin: auto;
+    position: absolute;
+    top: 115px;
+    left: 80px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.fa-solid {margin: auto;
+position: absolute;
+    top: 30px;
+    left: 135px;
+    ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
